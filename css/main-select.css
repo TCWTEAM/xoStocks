@@ -1,0 +1,123 @@
+body {
+  background-color: rgb(28, 28, 28);
+
+}
+
+h4 {
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  color: #ff4444;
+}
+
+#addBtn {
+  text-align: center;
+  margin-left: 5px;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+p {
+  display: inline;
+  text-align: center;
+}
+.addTitle {
+  color: #ff4444;
+  text-align: center;
+}
+
+#symblName {
+  background-color: inherit;
+  border: 2px solid #ffbb33;
+  color: #3076fe;
+  width: 70%;
+  text-align: center;
+}
+
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.success {
+  color: lime;
+}
+
+.stockName {
+  color: #3076fe;
+}
+
+.col {
+  background-color: inherit;
+  border: 2px solid rgb(196, 0, 255);
+  width: 50px;
+  height: 220px;
+  margin-right: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.high {
+  color: aqua;
+}
+
+.low {
+  color: rgb(184, 193, 14);
+}
+
+.latestTime {
+  color: rgb(111, 16, 205);
+}
+
+.modalInfo {
+  color: rgb(235, 0, 255);
+  display: inline;
+}
+
+#incontainer {
+  display: inline;
+}
+
+.randomShit {
+  color: aqua;
+  display: inline;
+}
+
+.newsHeaders {
+  color: rgb(17, 215, 198);
+}
+
+.settingslabel {
+  color: #3076fe;
+}
+#discordWebhook {
+  background-color: inherit;
+  border: 2px solid #ffbb33;
+  color: #3076fe;
+  width: 70%;
+  text-align: center;
+}
+
+#phoneNumber {
+  background-color: inherit;
+  border: 2px solid #ffbb33;
+  color: #3076fe;
+  width: 70%;
+  text-align: center;
+}
+
+#refreshDelay {
+  background-color: inherit;
+  border: 2px solid #ffbb33;
+  color: #3076fe;
+  width: 30%;
+  text-align: center;
+}
+
+button {
+  display: inline;
+  margin-left: 5px;
+}
